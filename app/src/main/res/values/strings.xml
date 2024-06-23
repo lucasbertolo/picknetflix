@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NetflixRandom</string>
+    <string name="home_title">Random Netflix</string>
+    <string name="home_description">Wondering what to watch? Let Netflix Roulette, the random movie and TV show generator, pick from the Netflix catalog. Take a chance on something new with Netflix randomizer. </string>
+    <string name="last_choices_title">Your last movies</string>
+</resources>
